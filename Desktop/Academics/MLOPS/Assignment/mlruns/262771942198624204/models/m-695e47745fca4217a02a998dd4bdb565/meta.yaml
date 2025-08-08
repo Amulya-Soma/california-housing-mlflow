@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/models/m-695e47745fca4217a02a998dd4bdb565/artifacts
+creation_timestamp: 1754655297125
+experiment_id: '262771942198624204'
+last_updated_timestamp: 1754655316898
+model_id: m-695e47745fca4217a02a998dd4bdb565
+model_type: null
+name: LinearRegression
+source_run_id: e0c78d91decc48669ce5c24e5dcbc105
+status: 2
+status_message: null

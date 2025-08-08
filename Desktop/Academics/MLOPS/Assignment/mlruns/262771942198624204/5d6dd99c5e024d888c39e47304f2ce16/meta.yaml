@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/5d6dd99c5e024d888c39e47304f2ce16/artifacts
+end_time: 1754653881071
+entry_point_name: ''
+experiment_id: '262771942198624204'
+lifecycle_stage: active
+run_id: 5d6dd99c5e024d888c39e47304f2ce16
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754653877093
+status: 3
+tags: []
+user_id: samulya

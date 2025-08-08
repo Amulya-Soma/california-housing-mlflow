@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/715358287552215370/models/m-ee9ab71266fa44438b1e3c2e0a116777/artifacts
+creation_timestamp: 1754653258132
+experiment_id: '715358287552215370'
+last_updated_timestamp: 1754653261591
+model_id: m-ee9ab71266fa44438b1e3c2e0a116777
+model_type: null
+name: RandomForest
+source_run_id: a49885d818054539ae816dbd758cf4ed
+status: 2
+status_message: null

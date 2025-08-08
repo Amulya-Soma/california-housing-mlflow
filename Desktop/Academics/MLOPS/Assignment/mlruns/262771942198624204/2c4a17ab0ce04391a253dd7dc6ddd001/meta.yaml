@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/2c4a17ab0ce04391a253dd7dc6ddd001/artifacts
+end_time: 1754655297033
+entry_point_name: ''
+experiment_id: '262771942198624204'
+lifecycle_stage: active
+run_id: 2c4a17ab0ce04391a253dd7dc6ddd001
+run_name: thoughtful-smelt-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655296783
+status: 3
+tags: []
+user_id: samulya

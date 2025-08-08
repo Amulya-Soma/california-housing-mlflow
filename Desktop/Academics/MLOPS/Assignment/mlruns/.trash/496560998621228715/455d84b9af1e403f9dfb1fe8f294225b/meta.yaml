@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/496560998621228715/455d84b9af1e403f9dfb1fe8f294225b/artifacts
+deleted_time: 1754655241197
+end_time: 1754655128685
+entry_point_name: ''
+experiment_id: '496560998621228715'
+lifecycle_stage: deleted
+run_id: 455d84b9af1e403f9dfb1fe8f294225b
+run_name: skittish-sponge-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655128521
+status: 3
+tags: []
+user_id: samulya

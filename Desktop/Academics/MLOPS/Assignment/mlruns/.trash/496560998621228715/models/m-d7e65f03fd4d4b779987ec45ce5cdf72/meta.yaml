@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/496560998621228715/models/m-d7e65f03fd4d4b779987ec45ce5cdf72/artifacts
+creation_timestamp: 1754655186967
+experiment_id: '496560998621228715'
+last_updated_timestamp: 1754655191623
+model_id: m-d7e65f03fd4d4b779987ec45ce5cdf72
+model_type: null
+name: GradientBoosting
+source_run_id: cac3388981824a2c9aa0901900a1563b
+status: 2
+status_message: null

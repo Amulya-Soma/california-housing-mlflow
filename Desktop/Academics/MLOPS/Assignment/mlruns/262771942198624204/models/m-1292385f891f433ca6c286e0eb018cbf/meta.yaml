@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/models/m-1292385f891f433ca6c286e0eb018cbf/artifacts
+creation_timestamp: 1754653893885
+experiment_id: '262771942198624204'
+last_updated_timestamp: 1754653897927
+model_id: m-1292385f891f433ca6c286e0eb018cbf
+model_type: null
+name: model
+source_run_id: d61bbfb6706c4e4e8376466b4594790b
+status: 2
+status_message: null

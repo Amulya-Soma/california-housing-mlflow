@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/ecba933949774ffe8d1c88a4e7833b36/artifacts
+end_time: 1754655522024
+entry_point_name: ''
+experiment_id: '262771942198624204'
+lifecycle_stage: active
+run_id: ecba933949774ffe8d1c88a4e7833b36
+run_name: enthused-turtle-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655521861
+status: 3
+tags: []
+user_id: samulya

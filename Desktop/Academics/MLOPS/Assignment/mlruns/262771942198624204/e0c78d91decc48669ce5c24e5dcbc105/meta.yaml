@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/e0c78d91decc48669ce5c24e5dcbc105/artifacts
+end_time: 1754655316920
+entry_point_name: ''
+experiment_id: '262771942198624204'
+lifecycle_stage: active
+run_id: e0c78d91decc48669ce5c24e5dcbc105
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655297041
+status: 3
+tags: []
+user_id: samulya

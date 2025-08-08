@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/models/m-3a0f93c6a62c40d488d0ffc55b7067aa/artifacts
+creation_timestamp: 1754653633394
+experiment_id: '262771942198624204'
+last_updated_timestamp: 1754653636941
+model_id: m-3a0f93c6a62c40d488d0ffc55b7067aa
+model_type: null
+name: DecisionTree
+source_run_id: f45388b9b58d45eda9c153452fdbe4d9
+status: 2
+status_message: null

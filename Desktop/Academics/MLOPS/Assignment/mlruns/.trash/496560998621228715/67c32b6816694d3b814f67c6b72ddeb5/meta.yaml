@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/496560998621228715/67c32b6816694d3b814f67c6b72ddeb5/artifacts
+deleted_time: 1754655241197
+end_time: 1754654524859
+entry_point_name: ''
+experiment_id: '496560998621228715'
+lifecycle_stage: deleted
+run_id: 67c32b6816694d3b814f67c6b72ddeb5
+run_name: resilient-stag-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754654524705
+status: 3
+tags: []
+user_id: samulya

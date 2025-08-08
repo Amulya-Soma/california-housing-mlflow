@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/496560998621228715/12580f20b4b24bb285e7ff110cd20afa/artifacts
+deleted_time: 1754655241197
+end_time: 1754654891451
+entry_point_name: ''
+experiment_id: '496560998621228715'
+lifecycle_stage: deleted
+run_id: 12580f20b4b24bb285e7ff110cd20afa
+run_name: melodic-shad-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754654891271
+status: 3
+tags: []
+user_id: samulya

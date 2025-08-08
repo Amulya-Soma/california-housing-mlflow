@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/262771942198624204/225ccdc7cf504017882a4e46f5adf74f/artifacts
+end_time: 1754655368667
+entry_point_name: ''
+experiment_id: '262771942198624204'
+lifecycle_stage: active
+run_id: 225ccdc7cf504017882a4e46f5adf74f
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655355676
+status: 3
+tags: []
+user_id: samulya

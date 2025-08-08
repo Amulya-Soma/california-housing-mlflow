@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/samulya/Desktop/Academics/MLOPS/Assignment/mlruns/496560998621228715/f2c0df8b88c14d2cb923a3f8158efa16/artifacts
+deleted_time: 1754655241197
+end_time: 1754654999857
+entry_point_name: ''
+experiment_id: '496560998621228715'
+lifecycle_stage: deleted
+run_id: f2c0df8b88c14d2cb923a3f8158efa16
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754654962875
+status: 3
+tags: []
+user_id: samulya

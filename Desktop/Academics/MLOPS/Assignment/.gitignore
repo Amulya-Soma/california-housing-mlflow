@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+AppData/
+
+# Logs & temp files
+*.log
+*.tmp
+
+# DVC data (will be tracked by DVC, not Git)
+data/
+*.csv
+*.pkl
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hugging Face / ML cache
+.cache/
+transformers_cache/
